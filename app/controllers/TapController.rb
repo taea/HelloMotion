@@ -19,4 +19,10 @@ class TapController < UIViewController
     new_controller = TapController.alloc.initWithNibName(nil, bundle: nil)
     self.navigationController.pushViewController(new_controller, animated: true)
   end
+
+  def initWithNibName(name, bundle: bundle)
+    super
+    self.tabBarItem = UITabBarItem.alloc.initWithTabBarSystemItem(UITabBarSystemItemFavorites, tag: 1)
+    self
+  end
 end
