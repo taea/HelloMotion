@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BEFEE2E0-9A38-4BA5-914D-DF7B3D50B831</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ib</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>937A7A5B-F55B-49F8-8862-0AB53AFD8025</key>
+		<string>ssh://github.com/taea/HelloMotion.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ib.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>937A7A5B-F55B-49F8-8862-0AB53AFD8025</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/taea/HelloMotion.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>937A7A5B-F55B-49F8-8862-0AB53AFD8025</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>937A7A5B-F55B-49F8-8862-0AB53AFD8025</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HelloMotion</string>
+		</dict>
+	</array>
+</dict>
+</plist>
